@@ -1,0 +1,32 @@
+{
+  "name": "desafio_roommates",
+  "version": "1.0.0",
+  "description": "Desafio NodeJs Express FS ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Natcho2020/Roommates.git"
+  },
+  "keywords": [
+    "File",
+    "System",
+    "NodeJs",
+    "Express."
+  ],
+  "author": "Ignacio Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natcho2020/Roommates/issues"
+  },
+  "homepage": "https://github.com/Natcho2020/Roommates#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "uuid": "^10.0.0"
+  }
+}
